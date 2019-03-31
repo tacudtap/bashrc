@@ -1,3 +1,3 @@
-wget https://git.io/fjUrb -O install-ga.sh
-chmod +x install-ga.sh
-./install-ga.sh
+wget https://git.io/fjkax -O install-i3.sh
+chmod +x install-i3.sh
+./install-i3.sh
